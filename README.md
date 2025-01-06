@@ -7,7 +7,7 @@
 pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python wpa-supplicant pixiewps iw -y
-git clone https://github.com/showrovbd/wi-fuck 
+git clone https://github.com/msrofficial/wi-fuck 
 cd wi-fuck 
 pip3 install -r requirements.txt
 chmod +x wi-fuck.py
@@ -32,7 +32,7 @@ chmod +x wi-fuck.py
 ````
 MIT License
 
-Copyright (c) 2023 🅼🅾🅽🆃🅾🆄🅲🅷🇧🇩
+Copyright (c) 2023 MSR🇧🇩
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
